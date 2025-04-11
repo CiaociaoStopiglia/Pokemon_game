@@ -32,6 +32,17 @@ o Charmander deu -- no Pikachu. tadin do bichin 🤣
 partida --
 🧬 a vida do Pikachu: --
 🔥 a vida do Charmander: --
+```
 
+## O que você pode mudar?
 
+**O nome dos pokemons e a vida deles aqui:**
 
+```bash
+let PikachuVida = 80
+let CharmanderVida = 80 //let é o nome, e depois do igual é a vida.
+```
+
+**Licença**
+@CiaociaoStopiglia
+Por: João Stopiglia - SENAI VALINHOS
